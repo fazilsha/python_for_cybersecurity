@@ -1,0 +1,3 @@
+Vulnerability Report for https://google.com:
+==========================================
+Awesome! Your HTML page is secure!!
